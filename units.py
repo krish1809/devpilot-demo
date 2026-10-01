@@ -3,7 +3,7 @@
 
 def to_celsius(fahrenheit):
     """Convert degrees Fahrenheit to degrees Celsius."""
-    return (fahrenheit - 32) * 5 / 8
+    return (fahrenheit - 32) * 5 / 9
 
 
 def to_kmh(mph):
